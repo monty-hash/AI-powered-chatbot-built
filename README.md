@@ -2,7 +2,7 @@
 
 An **AI-powered chatbot** built with **Streamlit** and **OpenAI**, designed to help users learn, explore, and ask questions interactively.
 
-![App Screenshot](your_image.png)
+
 
 ---
 
